@@ -12,7 +12,7 @@ JDBC.
 - [@haylonmosinhodev](https://github.com/haylonmosinhodev)
 
 
-![Java](https://cdn-icons-png.flaticon.com/256/226/226777.png)
+
+<img src="https://cdn-icons-png.flaticon.com/256/226/226777.png" alt="Java" width="100" height="100"> <img src="https://pbs.twimg.com/profile_images/621577553376100352/lvR3kClO_400x400.png" alt="Java" width="100" height="100">
 
 
-![Java](https://pbs.twimg.com/profile_images/621577553376100352/lvR3kClO_400x400.png)
